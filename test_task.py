@@ -64,4 +64,4 @@ for i in range(len(hist_array)):
                   hist_array[j]
                ]
 
-print(min_euclidean_dist[0]), min_manhattan_dist[0])
+print(min_euclidean_dist[0], min_manhattan_dist[0])
